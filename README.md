@@ -1,0 +1,1 @@
+# practice-for-ch-ruby-class-inheritance-long-practice
